@@ -17,7 +17,7 @@ I am a first-year student of the Belarusian State Electrotechnical University. I
     for (j = j_max; j < n; j++)
       a[i][j] = a[i][j + 1];
   n--;
-  ``
+  ```
   ### Work experience:
   Nothing yet.
   ### Education
